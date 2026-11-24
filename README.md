@@ -11,6 +11,8 @@ I study **how private communication stays secure once real people and AI systems
 
 **Start here:** [secure-communication-research](https://github.com/Shahidur60/secure-communication-research), an overview of my research directions, published work, and open tools.
 
+**Open project:** [agentic-e2ee-lab](https://github.com/Shahidur60/agentic-e2ee-lab), an AI assistant inside an encrypted messenger, attacked and defended, with an evaluation harness.
+
 **Published work with code:** [SocFakeID](https://github.com/Shahidur60/SocFakeID) (ISC 2026) · [SIVAI](https://github.com/Shahidur60/SIVAI)
 
 Code for work under review is released with each publication.
